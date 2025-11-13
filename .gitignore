@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+models/*.h5
+*.zip
+*.rar
+*.dll
+*.so
+*.dylib
+*.mp4
+*.avi
