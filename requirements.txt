@@ -1,0 +1,14 @@
+streamlit>=1.30.0
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+opencv-python
+tqdm
+albumentations
+opencv-contrib-python
+seaborn
+plotly
+ultralytics
+tensorflow>=2.8.0

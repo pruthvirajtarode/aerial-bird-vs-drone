@@ -1,0 +1,1 @@
+import os\n\ndef test_model_exists():\n    assert os.path.exists('models/final_model.h5')\n\ndef test_streamlit_app():\n    assert os.path.exists('streamlit_app/app.py')\n
