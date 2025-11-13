@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aerial Bird vs Drone - Internship-ready Project (Option A)
 
 This is the final submission package (Option A) prepared for internship submission.
@@ -14,3 +15,6 @@ Quick start (Windows):
 4. pip install -r requirements.txt
 5. python src/create_dummy_model.py
 6. streamlit run streamlit_app/app.py
+=======
+# aerial-bird-vs-drone
+>>>>>>> 977e20b3f978252fc5493485618c8ace40ca41ed
