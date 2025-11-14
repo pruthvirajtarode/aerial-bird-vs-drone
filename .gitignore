@@ -9,4 +9,3 @@ classification_dataset/
 object_detection_Dataset/
 *.zip
 *.rar
-*.h5
